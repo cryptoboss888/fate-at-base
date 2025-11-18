@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Fate @ Base",
+    "homeUrl": "https://your-domain.com",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "splashImageUrl": "https://your-domain.com/splash.png",
+    "splashBackgroundColor": "#6366f1",
+    "webhookUrl": "",
+    "subtitle": "Professional Tarot Readings",
+    "description": "Get professional tarot readings on Base - personalized guidance for crypto, love, money, and life decisions.",
+    "screenshotUrls": [],
+    "primaryCategory": "entertainment",
+    "tags": ["tarot", "fortune", "reading", "crypto", "guidance"],
+    "heroImageUrl": "https://your-domain.com/hero.png",
+    "tagline": "Professional Guidance On-Chain",
+    "ogTitle": "Fate @ Base - Professional Tarot Readings",
+    "ogDescription": "Get professional tarot readings on Base with real-time market insights and personalized guidance.",
+    "ogImageUrl": "https://your-domain.com/og-image.png",
+    "noindex": true
+  }
+}
