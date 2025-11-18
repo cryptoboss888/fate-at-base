@@ -10,9 +10,9 @@
   "miniapp": {
     "version": "1",
     "name": "Fate @ Base",
-    "homeUrl": "https://your-domain.com",
-    "iconUrl": "https://your-domain.com/icon.png",
-    "splashImageUrl": "https://your-domain.com/splash.png",
+    "homeUrl": "https://fate-at-base.vercel.app",
+    "iconUrl": "https://fate-at-base.vercel.app/icon.png",
+    "splashImageUrl": "https://fate-at-base.vercel.app/splash.png",
     "splashBackgroundColor": "#6366f1",
     "webhookUrl": "",
     "subtitle": "Professional Tarot Readings",
@@ -20,11 +20,11 @@
     "screenshotUrls": [],
     "primaryCategory": "entertainment",
     "tags": ["tarot", "fortune", "reading", "crypto", "guidance"],
-    "heroImageUrl": "https://your-domain.com/hero.png",
+    "heroImageUrl": "https://fate-at-base.vercel.app/hero.png",
     "tagline": "Professional Guidance On-Chain",
     "ogTitle": "Fate @ Base - Professional Tarot Readings",
     "ogDescription": "Get professional tarot readings on Base with real-time market insights and personalized guidance.",
-    "ogImageUrl": "https://your-domain.com/og-image.png",
-    "noindex": true
+    "ogImageUrl": "https://fate-at-base.vercel.app/og-image.png",
+    "noindex": false
   }
 }
