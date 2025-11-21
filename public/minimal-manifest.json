@@ -1,0 +1,15 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY2Mjg0NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYwNDEyQjViZTU0YTc0NGEzMUFlQjJBNWJFNDZkNmY3M0VhNDkyYzkifQ",
+    "payload": "eyJkb21haW4iOiJtYWdpY21pdG8udmVyY2VsLmFwcCJ9",
+    "signature": "ELZVvl6nmTVfoJwXW4F0tf1YCmWyjHktc4ooo8XEFPVZZ+dBGWwVg903ql5RRv7k+ytwVNzs4pzKm7l/b4inIBw="
+  },
+  "miniapp": {
+    "name": "Fate @ Base",
+    "version": "1",
+    "homeUrl": "https://fate-at-base.vercel.app"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x3c69A9eBe7C544fB58D46b06897A08a1f41c1ca8"
+  }
+}

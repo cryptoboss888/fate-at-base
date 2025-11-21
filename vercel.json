@@ -13,6 +13,10 @@
       "destination": "/manifest.json"
     },
     {
+      "source": "/minimal-manifest.json",
+      "destination": "/minimal-manifest.json"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
