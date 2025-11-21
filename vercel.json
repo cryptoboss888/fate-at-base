@@ -21,6 +21,10 @@
       "destination": "/base-manifest.json"
     },
     {
+      "source": "/test.html",
+      "destination": "/test.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
