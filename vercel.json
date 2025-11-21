@@ -1,19 +1,12 @@
 {
   "version": 2,
-  "builds": [
+  "rewrites": [
     {
-      "src": "package.json",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "dist"
-      }
+      "source": "/.well-known/farcaster.json",
+      "destination": "/farcaster.json"
     }
   ],
   "routes": [
-    {
-      "src": "/.well-known/farcaster.json",
-      "dest": "/public/.well-known/farcaster.json"
-    },
     {
       "handle": "filesystem"
     },
