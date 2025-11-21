@@ -1,0 +1,12 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Fate @ Base",
+    "iconUrl": "https://fate-at-base.vercel.app/icon.png",
+    "homeUrl": "https://fate-at-base.vercel.app",
+    "splashImageUrl": "https://fate-at-base.vercel.app/splash.png",
+    "splashBackgroundColor": "#6366f1",
+    "heroImageUrl": "https://fate-at-base.vercel.app/hero.png",
+    "tagline": "Professional Tarot Readings on Base"
+  }
+}
