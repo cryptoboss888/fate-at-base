@@ -9,6 +9,10 @@
       "destination": "/farcaster.json"
     },
     {
+      "source": "/manifest.json",
+      "destination": "/manifest.json"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }

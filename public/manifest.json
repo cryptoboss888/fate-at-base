@@ -1,0 +1,27 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY2Mjg0NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEYwNDEyQjViZTU0YTc0NGEzMUFlQjJBNWJFNDZkNmY3M0VhNDkyYzkifQ",
+    "payload": "eyJkb21haW4iOiJtYWdpY21pdG8udmVyY2VsLmFwcCJ9",
+    "signature": "ELZVvl6nmTVfoJwXW4F0tf1YCmWyjHktc4ooo8XEFPVZZ+dBGWwVg903ql5RRv7k+ytwVNzs4pzKm7l/b4inIBw="
+  },
+  "miniapp": {
+    "name": "Fate @ Base",
+    "version": "1",
+    "iconUrl": "https://fate-at-base.vercel.app/icon.png",
+    "homeUrl": "https://fate-at-base.vercel.app",
+    "imageUrl": "https://fate-at-base.vercel.app/embed-image.jpg",
+    "buttonTitle": "Read Your Fate",
+    "splashImageUrl": "https://fate-at-base.vercel.app/splash.png",
+    "splashBackgroundColor": "#6366f1",
+    "subtitle": "Professional Tarot Readings",
+    "description": "Get professional tarot readings on Base - personalized guidance for crypto, love, money, and life decisions.",
+    "primaryCategory": "entertainment",
+    "tags": ["tarot", "fortune", "reading", "crypto", "guidance"],
+    "screenshotUrls": [],
+    "ogTitle": "Fate @ Base - Professional Tarot Readings",
+    "ogImageUrl": "https://fate-at-base.vercel.app/og-image.png"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x3c69A9eBe7C544fB58D46b06897A08a1f41c1ca8"
+  }
+}
