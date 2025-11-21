@@ -1,18 +1,12 @@
 {
-  "version": 2,
   "rewrites": [
     {
       "source": "/.well-known/farcaster.json",
-      "destination": "/farcaster.json"
-    }
-  ],
-  "routes": [
-    {
-      "handle": "filesystem"
+      "destination": "/.well-known/farcaster.json"
     },
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
